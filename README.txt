@@ -7,4 +7,3 @@ This line is from master branch
 =======
 This line is from feature-A branch
 >>>>>>> feature-A
-This line is for revert demo

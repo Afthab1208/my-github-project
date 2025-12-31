@@ -7,3 +7,4 @@ This line is from master branch
 =======
 This line is from feature-A branch
 >>>>>>> feature-A
+Reset demo line 1

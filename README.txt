@@ -9,3 +9,4 @@ This change will be stashed
 Update from Student A
 Login page feature added
 Login validation added
+Database fix applied

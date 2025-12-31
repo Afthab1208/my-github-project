@@ -6,3 +6,4 @@ This line is from master branch
 This line is from feature-A branch
 Reset demo line 1
 This change will be stashed
+Update from Student A
